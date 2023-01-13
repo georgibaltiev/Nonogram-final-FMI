@@ -1,3 +1,3 @@
-# Nonogram-final-FMI
-Here is where I store this monstrosity in case I fuck up holy shit
+# Nonogram-project-FMI
+Final project for my Introduction to programming course
 =
