@@ -1,6 +1,0 @@
-﻿  main.cpp
-C:\Users\User\Downloads\main.cpp(364,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\User\Downloads\main.cpp(370,29): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
-C:\Users\User\Downloads\main.cpp(653,18): warning C4129: 'P': unrecognized character escape sequence
-C:\Users\User\Downloads\main.cpp(517,13): warning C4101: 'puzzle': unreferenced local variable
-  Nonogram.vcxproj -> C:\Users\User\source\repos\Nonogram\x64\Debug\Nonogram.exe
